@@ -11,5 +11,8 @@
     "websockets"
   ],
   "author": "Artem Solovev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^5.0.0"
+  }
 }
